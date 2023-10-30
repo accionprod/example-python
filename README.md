@@ -9,6 +9,6 @@ Check out the [python3](https://github.com/srcclr/example-python/tree/python3) b
 ```
 brew tap srcclr/srcclr
 brew install srcclr
-srcclr activate
+srcclr activate,,,,,
 srcclr scan --url https://github.com/srcclr/example-python
 ```
